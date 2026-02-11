@@ -26,9 +26,7 @@ export default function Hero() {
                     </a>
                   </div>
                 </div>
-                <h1 className="text-5xl font-semibold tracking-tight text-pretty text-foreground sm:text-7xl">
-                  SEO Velocity
-                </h1>
+                <h1 className="text-5xl font-semibold tracking-tight text-pretty text-foreground sm:text-7xl">Ai Voice: AI Powered SEO</h1>
                 <p className="mt-8 text-lg font-medium text-pretty text-muted-foreground sm:text-xl/8">
                   Don't just track rankings—track <strong>velocity</strong>.
                   Optimize for Google and AI Search Engines (ChatGPT, Perplexity) simultaneously.
